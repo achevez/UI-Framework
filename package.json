@@ -1,0 +1,19 @@
+{
+  "name": "ui-framework",
+  "version": "1.0.0",
+  "description": "Cypress UI Automation",
+  "main": "index.js",
+  "author": "Ana Chevez",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^6.2.1"
+  },
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run --browser chrome --headless --reporter mochawesome"
+  },
+  "dependencies": {
+    "mochawesome": "^6.2.1",
+    "mochawesome-report-generator": "^5.1.0"
+  }
+}

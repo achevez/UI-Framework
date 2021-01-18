@@ -1,0 +1,14 @@
+{
+  "watchForFileChanges": false,
+  "baseUrl": "http://localhost:8000",
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "charts": true,
+    "json": true,
+    "html": true,
+    "reportDir": "cypress/reports",
+    "reportFilename": "CypressTestsReport",
+    "overwrite": true,
+    "autoOpen": true
+  }
+}
