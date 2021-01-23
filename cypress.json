@@ -9,6 +9,6 @@
     "reportDir": "cypress/reports",
     "reportFilename": "CypressTestsReport",
     "overwrite": true,
-    "autoOpen": true
+    "autoOpen": false
   }
 }
