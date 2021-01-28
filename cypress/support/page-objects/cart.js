@@ -1,7 +1,6 @@
 import { cartSelectors } from "../selectors/cart"
 import { urls } from "../urls"
 
-
 export const cartPage = {
   /**
    * Function to retrieve a product name from the cart page.
