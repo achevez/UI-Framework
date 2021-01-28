@@ -1,3 +1,4 @@
 export const urls = {
-  cartURL: '/cart/',
+  productUrl: '/product/',
+  cartUrl: '/cart/',
 };
